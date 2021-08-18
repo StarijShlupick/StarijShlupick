@@ -1,4 +1,4 @@
-### Hello there! 👋
+# Hello there! 👋
 My name is Maksim and I'm passionate about everything related to front-end development.
 ## My skills 💪:
 - 💻 HTML, CSS(SCSS), JS(ES6+)
@@ -11,3 +11,7 @@ My name is Maksim and I'm passionate about everything related to front-end devel
 - 📋 MySQL
 - 📦 Webpack
 ## Short-term plans ✊:
+- learn Node.js
+- improve my knowledge of React/Redux
+- type true clean code
+- learn and apply algorithms and design patterns in practice
