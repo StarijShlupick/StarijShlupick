@@ -15,7 +15,7 @@ My name is Maksim and I'm passionate about everything related to front-end devel
 - improve my knowledge of React/Redux
 - type true clean code
 - learn and apply algorithms and design patterns in practice
-## My projects ✨:
+## My last projects ✨:
 - WeldChat: https://weldchat.netlify.app
 - Pomodoro Timer: https://pomodoro-timer-maksim-burakov.netlify.app/
 - Green Map: https://rsclone-2021.web.app/
